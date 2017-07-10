@@ -4,7 +4,7 @@ Links, info and utilities for the Baofeng DM-5R two-way DMR radio.
 
 So far, do not exist any tool to program this talkie over GNU/Linux or MacOS, so the unique way is to do this over a Windows environment (can be virtualized).
 
-This repo contains info and resources fetched from different sources, the main [Baofeng site](https://baofengtech.com/), [Radioddity](radioddity.com)
+This repo contains info and resources fetched from different sources, ie the main [Baofeng site](https://baofengtech.com/), [Radioddity](radioddity.com) and other forums. All credits are for the original authors of this resources, this repo is just a way to keep it over the time together.
 
 
 ## Links
@@ -55,3 +55,10 @@ A visual editor will be showed with all the available configurations.
 **Save current config** as a backup after changing anything, ensure that a rollback can be easily performed!
 
 Change whatever you want, and write changes to the radio to save it.
+
+---------
+
+## Disclaimer
+
+We do not provide any kind of warranty about this resources, and we're not responsible about anything (xD).
+
