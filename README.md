@@ -8,4 +8,4 @@ So far, do not exist any tool to program this talkie over GNU/Linux or MacOS, so
 
 * Manual
 
-* Win drivers
+* [Win drivers](https://github.com/XaviTorello/baofeng-dm5r/raw/master/Win_Driver_Prolific_3_2_0_0.exe)
